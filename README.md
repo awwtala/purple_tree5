@@ -11,4 +11,8 @@ When an individual presses "Add task," the task enetered will be placed in the "
 ## Credits
 
 Xpert Learning Assistance.
-Teacher assistant: Zac Warner
+Teacher: John Young.
+Teacher assistant: Zac Warner.
+Toutor: Joem Casusi.
+Thomas white.
+Sung Min An.
